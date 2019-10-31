@@ -1,0 +1,34 @@
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.deps.json
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.runtimeconfig.json
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.dll
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.pdb
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorAssemblyInfo.cache
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorAssemblyInfo.cs
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.AssemblyInfo.cs
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorTargetAssemblyInfo.cache
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.dll
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.pdb
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\Laura\source\repos\RestItemService\RestItemService\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\Laura\source\repos\RestItemService\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csproj.CopyComplete
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.deps.json
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.runtimeconfig.json
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.dll
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\RestItemService.pdb
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorAssemblyInfo.cache
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorAssemblyInfo.cs
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.AssemblyInfo.cs
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.RazorTargetAssemblyInfo.cache
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.csproj.CopyComplete
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.dll
+C:\Users\Laura\source\repos\RestItemService - advanced\RestItemService\obj\Debug\netcoreapp2.1\RestItemService.pdb
